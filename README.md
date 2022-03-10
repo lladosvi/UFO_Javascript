@@ -1,7 +1,7 @@
-#Overview of the Project
+# Overview of the Project
 For this project we are building an HTML page that will allow us to pull up information from a javascript data file using filters on the page. Intent is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
 
-#HTML Page and results
+# HTML Page and results
 
 
 Once entering the website our client will see the basic opening and title with the picture at the top, as the client scrolls down they will begin to see all the data and filters that we have(which is in the image below). From this image below we have 5 different filters to choose from; the date, city, state, country & shape. You can choose any of these filters enter the search bar, then the HTML page will show all of the sightings for that specific search. Multiple filters can be entered at the same time to further inspect the data in the specific search bar that is entered.
