@@ -17,9 +17,9 @@ Below there are a few examples on how to filter data:
 
 ![image](https://user-images.githubusercontent.com/96096924/157747445-fdd961d0-20c0-41d0-a48d-997a2d2f2884.png)
 
-2) The next example will use 2 filters in this case will delete the bonita filter and add a filter by date and state. So below are the results for "1/10/2010" in the state of Texas. You can see that the 2 filters applied are in bold and black.
+2) The next example will use 2 filters in this case will delete the bonita filter and add a filter by date and state. So below are the results for "1/10/2010" in the state of Texas. You can see that the 2 filters applied are in black versus filters not used in grey.
 
-![image](https://user-images.githubusercontent.com/96096924/157747864-0ff1aaf5-1e4a-4d48-a65d-88f6b5bfe899.png)
+![image](https://user-images.githubusercontent.com/96096924/157748050-b2e360df-0770-421c-b0ee-e2ac87afc194.png)
 
 ## Summary
 
