@@ -11,6 +11,16 @@ Once entering the website our client will see the basic opening and title with t
 
 ![image](https://user-images.githubusercontent.com/96096924/157742195-62a833fa-4521-414e-9a9a-f2572e78f6d1.png)
 
+Below there are a few examples on how to filter data:
+
+1) You can filter by one or all of the search criteria shown. For example, if you search by "City", you will see that the table updated to show the reported sightings that was recorded for that specific city. In the below example we enter bonita and leave other filters as is, see below outcome:
+
+![image](https://user-images.githubusercontent.com/96096924/157747445-fdd961d0-20c0-41d0-a48d-997a2d2f2884.png)
+
+2) The next example will use 2 filters in this case will delete the bonita filter and add a filter by date and state. So below are the results for "1/10/2010" in the state of Texas. You can see that the 2 filters applied are in bold and black.
+
+![image](https://user-images.githubusercontent.com/96096924/157747864-0ff1aaf5-1e4a-4d48-a65d-88f6b5bfe899.png)
+
 ## Summary
 
 ### Drawbacks:
