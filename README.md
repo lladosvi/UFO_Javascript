@@ -12,4 +12,21 @@ Once entering the website our client will see the basic opening and title with t
 ![image](https://user-images.githubusercontent.com/96096924/157742195-62a833fa-4521-414e-9a9a-f2572e78f6d1.png)
 
 ## Summary
-We have created a page that looks clean and allows the user to filter through the different sitings in our data set using the search bars created. One big drawback about our search bar is trying to validate the sitings that happened which can be better described in the data. If we had how many people were at the siting would be a helpful element to validating the claims. Having as much data as possible for website would make it as good as it can possible be. My two recommendations for improving this website would 1. to have more data that has more information including how many people were at the site 2. adding another filter to find the sitings by lengt and last but not least have a site that would be constantly updating our data adding new sitings to our page.
+
+### Drawbacks:
+
+Unfortunately, the page has several drawbacks. They include:
+
+-The search field is "case-sensitive". The table will not update if you do not enter exactly how the data is stored and does not allow for partial entries. This is an issue because it does not intuitively tell the user how the information should be entered other than the "default" example shown.
+
+-There is no button to click, wording or action that tells the user that the table will update after you hit "enter".
+
+### Recommendations:
+
+With the following enhancements, it can greatly improve the user's experience.
+
+-Add additional customizations, such as click-buttons, dropdown list, and/or auto-fill that can help "guide" the user and make the page more interactive.
+
+-Add functionality to pull the data from a live source that includes current and archived data not limited to only the United States, but globally.
+
+
